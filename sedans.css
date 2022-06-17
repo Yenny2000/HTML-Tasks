@@ -1,0 +1,67 @@
+body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    font-size: 15px;
+    
+    font-weight: 400;
+}
+.container-1{
+    background-color: hsl(31, 77%, 52%);
+}
+.container-2{
+    background-color: hsl(184, 100%, 22%);
+}
+.container-3{
+    background-color: hsl(179, 100%, 13%);
+}
+.title{
+    color: hsl(0, 0%, 95%);
+    font-family: 'Big Shoulders Display', sans-serif;
+    font-weight: 600;
+    margin: 60px;
+}
+.topic{
+    color: hsla(0, 0%, 100%, 0.75); 
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    display: inline-block;
+    margin: 60px;
+
+}
+.learn-more{
+    background-color:hsl(0, 0%, 95%);
+    border-radius: 60px;
+    margin: 60px;
+    width: 150px;
+
+}
+.luxury-car{
+    width: 25px;
+    height: 30px;
+}
+#L1{
+    color:hsl(31, 77%, 52%); 
+    font-family: 'Lexend Deca', sans-serif;
+}
+#L2{
+   color: hsl(184, 100%, 22%);
+   font-family: 'Lexend Deca', sans-serif;
+}
+#L3{
+    color: hsl(179, 100%, 13%); 
+    font-family: 'Lexend Deca', sans-serif;
+}
+#car-side{
+    margin: 60px;
+}
+#suv-icon{
+    color: hsl(0, 0%, 95%);
+    margin: 60px
+}
+#sedan-icon{
+  margin: 60px;
+}
+#luxury-icon{
+margin: 60px;
+}
